@@ -12,6 +12,11 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+My name is Sharvari Yeole I am from India. 
+My pronouns are She/Her 
+I am a Master's student pursuing Management of Information Systems.
+I really like the idea of presenting millions of rows of data into a colourful picture.
+
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
