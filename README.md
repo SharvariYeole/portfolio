@@ -36,8 +36,8 @@ This is my public portfolio for Telling Stories with Data at Carnegie Mellon Uni
 
 ## Final project
  
--[Part I](final-project-part-one)
--[Part II](final-project-part-two)
--[Part III](final-project-part-three)
+- [Part I](final-project-part-one)
+- [Part II](final-project-part-two)
+- [Part III](final-project-part-three)
 
 
