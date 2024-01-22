@@ -4,13 +4,13 @@
 This is my public portfolio for Telling Stories with Data at Carnegie Mellon University!
 
 # About me
-My name is Sharvari Yeole, I am from India. 
-My pronouns are She/Her.
-I am a Master's student pursuing Management of Information Systems.
-I really like the idea of presenting millions of rows of data into a colourful picture.
-My journey into the world of data visualization began with a simple realization: data is only as valuable as the story it tells. 
-It's not just about numbers; it's about painting a narrative that inspires action
-My aim is to weave stories that transform data from dry facts into genuinely engaging experiences
+- My name is Sharvari Yeole, I am from India. 
+- My pronouns are She/Her.
+- I am a Master's student pursuing Management of Information Systems.
+- I really like the idea of presenting millions of rows of data into a colourful picture.
+- My journey into the world of data visualization began with a simple realization: data is only as valuable as the story it tells. 
+- It's not just about numbers; it's about painting a narrative that inspires action
+- My aim is to weave stories that transform data from dry facts into genuinely engaging experiences
 
 
 # What I hope to learn 
