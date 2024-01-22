@@ -25,14 +25,9 @@ This is my public portfolio for Telling Stories with Data at Carnegie Mellon Uni
 
 # Examples
 
-
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
-[Click here to view the visualization](visualizing-government-debt)
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-
-[Click here to view the visualization](critique-by-design) 
+## Assignment 3&4: [Critique by Design](critique-by-design) 
 
 ## Final project
  
