@@ -23,7 +23,7 @@ This is my public portfolio for Telling Stories with Data at Carnegie Mellon Uni
 
 # Portfolio
 
-# Examples
+## Examples
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
