@@ -68,6 +68,7 @@ The bar chart in the visualization provided is effective for comparing the avera
 </script>
 
 
-Data Source Acknowledgement
 
-[OECD](https://data.oecd.org/gga/general-government-debt.htm): This dataset provided the debt-to-GDP ratio for different countries from 1995-2021.
+
+Data Source Acknowledgement:
+- [OECD](https://data.oecd.org/gga/general-government-debt.htm): This dataset provided the debt-to-GDP ratio for different countries from 1995-2021.
