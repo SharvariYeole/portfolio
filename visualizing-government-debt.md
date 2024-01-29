@@ -8,7 +8,7 @@
  pensions and standardised guarantee schemes, and other accounts payable. 
 - Changes in government debt over time primarily reflect the impact of past government deficits.
 
-Below is a chart showing the Debt-to-GDP ratios of countries around the world for the year 2019. Click on the bars to get specific information.
+Below is a bar chart showing the Debt-to-GDP ratios of countries around the world for the year 2019. Click on the bars to get specific information.
 
 
 <iframe src="https://data.oecd.org/chart/7kpg" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kpg" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
@@ -23,7 +23,13 @@ Below is a chart showing the Debt-to-GDP ratios of countries around the world fo
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+- Asia has a wide range of debt-to-GDP ratios, with a particularly high upper quartile and outliers, indicating that there are countries with significantly higher debt ratios.
+- Europe has a relatively high median debt-to-GDP ratio compared to other regions, suggesting that European countries, on average, may carry more debt relative to their GDP.
+- North America, Oceania, South Africa, and South America show less variability with more consistent debt-to-GDP ratios among their countries.
+Oceania, South Africa, and South America have lower median debt levels compared to Asia and Europe.
 
+
+The boxplot was selected as the visualization method for this data due to its effectiveness in communicating several statistical nuances quickly and clearly. Firstly, boxplots excel at depicting the central tendency and the dispersion of data, showcasing medians and the spread of values within different categories. This is particularly useful for understanding the typical values and the range within which most values fall in each region. Secondly, boxplots are adept at highlighting outliers. Outliers can signify extreme cases that may warrant special attention or could potentially skew analysis, making them crucial for nuanced economic analysis and policy formulation. Lastly, the nature of a boxplot facilitates the direct comparison of distributions between different groups—in this case, across regions—allowing for an efficient comparative analysis of the debt-to-GDP ratio's variability and central tendencies in a single visual frame. These characteristics make the boxplot a powerful tool for synthesizing complex data into an accessible and informative narrative.
 
 <div class='tableauPlaceholder' id='viz1706565255315' style='position: relative'><noscript><a href='#'><img alt='2022 Regional Debt-to-GDP Overview: Average Ratios Across Continents ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;In-class_17065476256140&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='In-class_17065476256140&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;In-class_17065476256140&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
@@ -35,6 +41,9 @@ Below is a chart showing the Debt-to-GDP ratios of countries around the world fo
 </script>
 
 
+The bar chart shows that every region experienced an increase in average debt-to-GDP ratio post-COVID, indicating a universal fiscal response to the pandemic. The variation in the increase also suggests that the economic impact and/or the fiscal response to the pandemic was not uniform across regions. Asia and North America, for instance, show a marked increase in the average debt-to-GDP ratio, hinting at possibly larger stimulus measures or economic impacts in these areas. This form of visualization is chosen to make these comparisons quick to discern and easy to understand at a glance, emphasizing the absolute change in debt levels rather than the relative change or distribution of individual data points.
+
+The bar chart in the visualization provided is effective for comparing the average debt-to-GDP ratio across different regions before and after a significant event, in this case, the COVID-19 pandemic. The light bars represent the pre-COVID period, and the dark bars represent the post-COVID period, allowing for an immediate visual comparison of changes in debt levels before and after the pandemic across various regions
 
 <div class='tableauPlaceholder' id='viz1706565294913' style='position: relative'><noscript><a href='#'><img alt='Regional Debt Surge: A Comparison of Pre and Post-COVID ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;In-class_17065476256140&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='In-class_17065476256140&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;In-class_17065476256140&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
