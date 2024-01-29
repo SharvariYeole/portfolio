@@ -66,3 +66,8 @@ The bar chart in the visualization provided is effective for comparing the avera
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+
+Data Source Acknowledgement
+
+[OECD](https://data.oecd.org/gga/general-government-debt.htm): This dataset provided the debt-to-GDP ratio for different countries from 1995-2021.
