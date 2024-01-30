@@ -68,7 +68,50 @@ The bar chart in the visualization provided is effective for comparing the avera
 </script>
 
 
+## Design Principles Used:
+- Using grey colour to highlight the post COVID surge in debt-to-gdp ratio
+- Simple chart not much eye travel and limited colors used in graphs
+- Simplified axis labels to declutter the chart 
 
+## Comparison of different Visualizations
+
+Each type of data visualization has its strengths and weaknesses, which can make it more or less suitable depending on the data being analyzed and the insights sought. Here’s a comparison of bar charts, boxplots, and heatmaps:
+
+### Bar Chart
+**Pros:**
+- **Intuitive**: Bar charts are straightforward and easy to understand, making them ideal for a broad audience.
+- **Comparative**: They are excellent for comparing discrete categories or groups.
+- **Flexible**: Bar charts can be stacked or grouped, offering versatility in showing relationships between different sets of data.
+- **Versatile**: They can represent a wide range of data types, from counts and frequencies to percentages.
+
+**Cons:**
+- **Simplicity**: While generally an advantage, the simplicity of bar charts can be a limitation when trying to convey complex, multi-variable relationships.
+- **Space-consuming**: In datasets with many categories, bar charts can become cluttered or require more space to be legible.
+- **Overemphasis**: Taller bars can dominate the viewer's attention, potentially leading to an overemphasis on particular data points.
+
+### Boxplot
+**Pros:**
+- **Statistical Summary**: Boxplots provide a five-number summary of a dataset (minimum, first quartile, median, third quartile, and maximum), including outliers.
+- **Efficient**: They can display large amounts of data in a compact form.
+- **Comparative Analysis**: Great for comparing distributions across different groups.
+
+**Cons:**
+- **Granularity**: Boxplots do not show the exact number of observations or the multimodal nature of a distribution.
+- **Interpretation**: They can be harder to interpret for those unfamiliar with their representation of statistical data.
+- **Detail**: Boxplots provide less detail about the distribution, such as the actual frequency or density of data points.
+
+### Heatmap
+**Pros:**
+- **Data Density**: Heatmaps can display a large matrix of data in a way that is quickly accessible, showing patterns through color gradients.
+- **Pattern Recognition**: They are particularly good for spotting trends, correlations, and outliers within complex datasets.
+- **Aesthetics**: Heatmaps can be visually appealing and are excellent for engaging viewers with the data.
+
+**Cons:**
+- **Precision**: It can be difficult to determine precise values from a heatmap without interactive features like tooltips.
+- **Color Schemes**: The choice of color gradient can significantly affect the readability and interpretation of the data.
+- **Over-simplification**: In an attempt to streamline information, subtle differences may be lost, especially when using a limited color range.
+
+In summary, bar charts are best for straightforward comparisons of discrete categories, boxplots for summarizing distributions and spotting outliers, and heatmaps for visualizing complex data matrices and patterns. 
 
 Data Source Acknowledgement:
 - [OECD](https://data.oecd.org/gga/general-government-debt.htm): This dataset provided the debt-to-GDP ratio for different countries from 1995-2021.
