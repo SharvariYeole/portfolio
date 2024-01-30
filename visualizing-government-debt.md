@@ -113,5 +113,6 @@ Each type of data visualization has its strengths and weaknesses, which can make
 
 In summary, bar charts are best for straightforward comparisons of discrete categories, boxplots for summarizing distributions and spotting outliers, and heatmaps for visualizing complex data matrices and patterns. 
 
-Data Source Acknowledgement:
+
+### Data Source Acknowledgement:
 - [OECD](https://data.oecd.org/gga/general-government-debt.htm): This dataset provided the debt-to-GDP ratio for different countries from 1995-2021.
