@@ -147,9 +147,25 @@ Recommendations:
   - These lines serve as a reference point, showing the average coal output among districts and enterprises.
   - This allows viewers to quickly determine which organisations surpass, meet, or fall below average production levels, giving another 
    layer of insight to the data displayed. 
-      
 
+- Visual Flow
+  - I arranged the visualization to guide the viewer from a general overview to specific insights.
+  - The map on the left provides a broad view of coal production across states, while the bar charts on the right detail the top districts and 
+    companies.
+  - This layout is intended to create a narrative flow that makes the data easy to follow and understand.
+ 
+- Visual Language
+  -  I maintained a consistent visual language across the map and bar charts.
+  -  The similar visual weight of the elements ties the components together, ensuring that the viewer can interpret the data seamlessly 
+      without getting lost in translation between different representations.
 
+- Effective Use of Space
+  -  It was important to me to present a lot of information without cluttering the visual space.
+  -  I achieved this by balancing the elements, giving each piece of data enough room to be easily readable.
+ 
+- Accessibility Considerations
+  -  I designed with accessibility in mind.
+  -  The use of grayscale and high contrast ensures that individuals with color vision deficiencies can read the visualization.
 <div class='tableauPlaceholder' id='viz1707275799038' style='position: relative'><noscript><a href='#'><img alt='Indian Coal Production ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17072757874170&#47;IndianCoalProduction&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34_17072757874170&#47;IndianCoalProduction' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17072757874170&#47;IndianCoalProduction&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
    var divElement = document.getElementById('viz1707275799038');
