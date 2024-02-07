@@ -130,31 +130,49 @@ Me: What do you think this depicts?
 Interviewee: Coal producing regions in India, and ownership split between various agencies
 
 Me: Could you describe what the charts are trying to convey?
+
 Interviewee: Northern part of India has more regions which produce coal. 
+
 Me: Is there anything in the charts that appears to be confusing?
-Interviewee: Found the map hard to read, the bar charts do not have titles on the axes. It would be highly beneficial to create multiple bar charts with average coal production shown. 
+
+Interviewee: Found the map hard to read, the bar charts do not have titles on the axes. It would be highly beneficial to create multiple bar charts with average coal production shown.
+
 Me: Who do think these data and charts are geared towards?
+
 Interviewee: Environmental agencies, government officials, students, etc.
+
 Me: Is there something that you would do differently?
+
 Interviewee: I would make the maps interactive and help the user easily understand the data by clicking different regions. A heat map showing variations of coal production in different regions would be helpful.
 
+
 Interview 2: Adult, late 50’s
+
 Me: What do you think this depicts?
+
 Interviewee: Coal production across various regions of India, and districts of highest mining activity.
+
 Me: Could you describe what the charts are trying to convey?
+
 Interviewee: Certain regions of India dominate in coal production, and the government owns most mines.
+
 Me: Is there anything in the charts that appears to be confusing?
+
 Interviewee: The lack of legends and the inability to find where each district falls from the map makes the data less usable. 
+
 Me: Who do think these data and charts are geared towards?
+
 Interviewee: Researchers, social activists, corporate companies, etc.
+
 Me: Is there something that you would do differently?
+
 Interviewee: Being able to use the bar charts and the map together to paint a bigger picture of the data should be the focus here. 
 
 
 Similarities: 
-•⁠  ⁠The interviewees could understand and interpret the data to an extent. 
-•⁠  ⁠They had similar ideas about the core audience for this data and visualization.
-•⁠  ⁠The interviewees agreed with my choices for visualization – interactive map and bar charts.
+-  ⁠The interviewees could understand and interpret the data to an extent. 
+-⁠  ⁠They had similar ideas about the core audience for this data and visualization.
+-  ⁠The interviewees agreed with my choices for visualization – interactive map and bar charts.
 
 Differences:
 One person wanted an emphasis on the map and the other person wanted the bar charts and map to co-exist to create a large picture of the data.
