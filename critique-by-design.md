@@ -124,8 +124,11 @@ Recommendations:
 
 ## Step four: Test the solution
 Interview 1: Environmental Scientist, mid 20’s
+
 Me: What do you think this depicts?
+
 Interviewee: Coal producing regions in India, and ownership split between various agencies
+
 Me: Could you describe what the charts are trying to convey?
 Interviewee: Northern part of India has more regions which produce coal. 
 Me: Is there anything in the charts that appears to be confusing?
