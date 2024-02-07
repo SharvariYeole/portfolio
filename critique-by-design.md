@@ -81,17 +81,17 @@ The chart is cluttered with closely packed horizontal bars, making it difficult 
 
 ### Engagement
 
-<img src="e.png" width="200"/>
+<img src="e.png" width="500"/>
 
 - The graph shows the data in a simple manner, but it does not interest the audience beyond the basic facts.
 - It does not convey a tale or give insights that may pique someone's interest in the subject or encourage sharing or conversation.
 
 
 
-  ### Overall Observations
+### Overall Observations
 
-  - The graph stands out as a functional depiction of coal output and mine count data, but it is difficult to interpret due to its density and lack of spacing.
-  - The dual-axis bar graph is effective for displaying two different units of measurement; however, improved visual separation and data labelling might increase readability.
+- The graph stands out as a functional depiction of coal output and mine count data, but it is difficult to interpret due to its density and lack of spacing.
+- The dual-axis bar graph is effective for displaying two different units of measurement; however, improved visual separation and data labelling might increase readability.
  
 ### Who is the Primary Audience?
 
@@ -104,10 +104,10 @@ The assessment approach is pretty exhaustive, however it should add a 'clarity o
 
 Recommendations:
 
-Increase the gap between bars for clarity.
-To better identify between data points, choose a more diversified colour palette.
-Include interactive components (if digital) that allow viewers to hover for further information on each district.
-To accommodate a larger readership, provide a clearer annotation or instructions for interpreting the dual-axis.
+- Increase the gap between bars for clarity.
+- To better identify between data points, choose a more diversified colour palette.
+- Include interactive components (if digital) that allow viewers to hover for further information on each district.
+- To accommodate a larger readership, provide a clearer annotation or instructions for interpreting the dual-axis.
 
 
 
@@ -130,6 +130,18 @@ To accommodate a larger readership, provide a clearer annotation or instructions
 
 ## Step five: Build your solution
 
+- Chart Type : Chloropleth Map and Bar Chart
+      -  A choropleth map, which utilises shades of grey to indicate the amount of coal produced in various states. 
+      - This sort of map is useful for displaying the geographic distribution of a dataset over predetermined locations, such as states.
+      - The advantage is that it gives a rapid visual indication for determining which locations have the highest production.
+      - Bar charts were chosen to illustrate the top coal-producing areas and firms because they provide a clear and uncomplicated approach to          compare categorical data.
+      - The bars give a visual length that corresponds precisely to the volume of coal output, allowing viewers to readily identify the top             producers in each category.
+      - My goal was to produce a visualisation that provides the key information at a glance while preserving simplicity and effectiveness in 
+        design.
+  - Color Scheme
+       - I used a colour palette that reflects the subject matter, coal production.
+       - The choice of grey and harsh black throughout is an intentional reference to the colour coal itself.
+       - This theme decision visually anchors the data inside its real-world environment. 
 
 
 <div class='tableauPlaceholder' id='viz1707275799038' style='position: relative'><noscript><a href='#'><img alt='Indian Coal Production ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17072757874170&#47;IndianCoalProduction&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34_17072757874170&#47;IndianCoalProduction' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17072757874170&#47;IndianCoalProduction&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
