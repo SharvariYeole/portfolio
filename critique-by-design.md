@@ -100,12 +100,25 @@ The major audience is expected to include coal industry personnel, environmental
 
 ### Final Thoughts
 
+The assessment approach is pretty exhaustive, however it should add a 'clarity of data origin' metric to emphasise the necessity of knowing where data comes from. Including 'accessibility' might also help to ensure that visualisations are appropriate for a wide audience, including people with visual impairments.
+
+Recommendations:
+
+Increase the gap between bars for clarity.
+To better identify between data points, choose a more diversified colour palette.
+Include interactive components (if digital) that allow viewers to hover for further information on each district.
+To accommodate a larger readership, provide a clearer annotation or instructions for interpreting the dual-axis.
+
+
+
+## Step three: Sketch out a Solution
 
 
 
 
+## Step four: Test the solution
 
-
+## Step five: Build your solution
 
 
 
