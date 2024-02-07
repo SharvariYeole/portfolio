@@ -143,9 +143,9 @@ Recommendations:
   - This theme decision visually anchors the data inside its real-world environment.
    
 - Analytics
- - I used average lines in the bar charts to establish a standard for comparison.
- - These lines serve as a reference point, showing the average coal output among districts and enterprises.
- - This allows viewers to quickly determine which organisations surpass, meet, or fall below average production levels, giving another 
+  - I used average lines in the bar charts to establish a standard for comparison.
+  - These lines serve as a reference point, showing the average coal output among districts and enterprises.
+  - This allows viewers to quickly determine which organisations surpass, meet, or fall below average production levels, giving another 
    layer of insight to the data displayed. 
       
 
