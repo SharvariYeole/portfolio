@@ -25,7 +25,7 @@ The chart is cluttered with closely packed horizontal bars, making it difficult 
 
 ### Usefulness
 
-<img src="usefulness.png" width="500"/>
+<img src="u.png" width="500"/>
 
 - The graph depicts coal production and the number of mines in different districts throughout 12 states. 
 - It is quite beneficial as it disseminates data that academics, environmental analysts, policy makers, and coal industry stakeholders may find 
@@ -34,7 +34,7 @@ The chart is cluttered with closely packed horizontal bars, making it difficult 
 
 
 ### Completeness
-
+ <img src="c.png" width="500"/>
     
 - The graph has basic components such as labels, a legend, and a title that provides context. 
 - However, it may be improved by include a date range for the data, coal output units (assuming metric tonnes, MT).
@@ -42,7 +42,7 @@ The chart is cluttered with closely packed horizontal bars, making it difficult 
 
 ### Perceptibility
 
-<img src="perceptibility.png" width="500"/>
+<img src="p.png" width="500"/>
 
 - The reader can comprehend the material, but it may take more work than necessary.
 - While the horizontal bar graph is an appropriate option for this data type, the visualisation is thick and congested, making it impossible to 
@@ -51,7 +51,7 @@ The chart is cluttered with closely packed horizontal bars, making it difficult 
   the colours may be modified for clarity.
 
 ### Truthfulness
- <img src="Truthfulness.png" width="500"/>
+ <img src="t.png" width="500"/>
 
  - Assuming that the data is properly obtained and presented, the graph looks to be correct.
  - There is no clear manipulation of the scales or data that may result in deception.
@@ -59,7 +59,7 @@ The chart is cluttered with closely packed horizontal bars, making it difficult 
 
 ### Intuitiveness
 
-<img src="Intuitiveness.png" width="500"/>
+<img src="i.png" width="500"/>
 
 
 - The dual-axis bar graph is quite straightforward, but it may benefit from a quick explanation on how to understand it, particularly for an audience unfamiliar with dual-axis charts.
@@ -70,7 +70,7 @@ The chart is cluttered with closely packed horizontal bars, making it difficult 
 ### Aesthetics
 
 
-
+<img src="a.png" width="500"/>
 
 - The graph is practical but not especially visually appealing.
 - The colour choice is simple, and the overall design is practical.
@@ -81,7 +81,7 @@ The chart is cluttered with closely packed horizontal bars, making it difficult 
 
 ### Engagement
 
-<img src="engagement.png" width="200"/>
+<img src="e.png" width="200"/>
 
 - The graph shows the data in a simple manner, but it does not interest the audience beyond the basic facts.
 - It does not convey a tale or give insights that may pique someone's interest in the subject or encourage sharing or conversation.
