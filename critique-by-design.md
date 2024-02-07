@@ -130,23 +130,23 @@ Recommendations:
 ## Step five: Build your solution
 
 - Chart Type : Chloropleth Map and Bar Chart
-      -  A choropleth map, which utilises shades of grey to indicate the amount of coal produced in various states. 
-      - This sort of map is useful for displaying the geographic distribution of a dataset over predetermined locations, such as states.
-      - The advantage is that it gives a rapid visual indication for determining which locations have the highest production.
-      - Bar charts were chosen to illustrate the top coal-producing areas and firms because they provide a clear and uncomplicated approach to          compare categorical data.
-      - The bars give a visual length that corresponds precisely to the volume of coal output, allowing viewers to readily identify the top             producers in each category.
-      - My goal was to produce a visualisation that provides the key information at a glance while preserving simplicity and effectiveness in 
+  -  A choropleth map, which utilises shades of grey to indicate the amount of coal produced in various states. 
+  - This sort of map is useful for displaying the geographic distribution of a dataset over predetermined locations, such as states.
+  - The advantage is that it gives a rapid visual indication for determining which locations have the highest production.
+  - Bar charts were chosen to illustrate the top coal-producing areas and firms because they provide a clear and uncomplicated approach to          compare categorical data.
+  - The bars give a visual length that corresponds precisely to the volume of coal output, allowing viewers to readily identify the top             producers in each category.
+  - My goal was to produce a visualisation that provides the key information at a glance while preserving simplicity and effectiveness in 
         design.
 - Color Scheme
-       - I used a colour palette that reflects the subject matter, coal production.
-       - The choice of grey and harsh black throughout is an intentional reference to the colour coal itself.
-       - This theme decision visually anchors the data inside its real-world environment.
+  - I used a colour palette that reflects the subject matter, coal production.
+  - The choice of grey and harsh black throughout is an intentional reference to the colour coal itself.
+  - This theme decision visually anchors the data inside its real-world environment.
    
 - Analytics
-       - I used average lines in the bar charts to establish a standard for comparison.
-       - These lines serve as a reference point, showing the average coal output among districts and enterprises.
-       - This allows viewers to quickly determine which organisations surpass, meet, or fall below average production levels, giving another 
-         layer of insight to the data displayed. 
+ - I used average lines in the bar charts to establish a standard for comparison.
+ - These lines serve as a reference point, showing the average coal output among districts and enterprises.
+ - This allows viewers to quickly determine which organisations surpass, meet, or fall below average production levels, giving another 
+   layer of insight to the data displayed. 
       
 
 
