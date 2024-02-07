@@ -177,6 +177,10 @@ Similarities:
 Differences:
 One person wanted an emphasis on the map and the other person wanted the bar charts and map to co-exist to create a large picture of the data.
 
+What are the lessons learned from the feedback?
+- ⁠The charts need to be restructured and more emphasis on clarity via legends/axes titles should be given.
+- ⁠The charts need to be structured to work together to paint a larger picture.
+- ⁠The averages should be shown on the bar charts to help convey the data regarding coal production in India.
 
 
 ## Step five: Build your solution
