@@ -119,8 +119,8 @@ To accommodate a larger readership, provide a clearer annotation or instructions
 - Add interactive map to allow the user to select specific states , coal production ranges, or number of mines, which would automatically 
    update the visualization to reflect their choices.
 
-  <img src="TSWD3.jpg" width="1000"/>
-  <img src="TSWD344.png" width="1000"/>
+  <img src="TSWD3.jpg" width="700"/>
+  <img src="TSWD344.png" width="700"/>
 
 
 ## Step four: Test the solution
