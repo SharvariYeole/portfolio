@@ -116,8 +116,7 @@ Recommendations:
 - I decided to create a dashboard on Tableau.
 - Introduce elements of storytelling by highlighting key data points, like the district with the highest production, the state with the most 
   mines and the ownership of the mines
-- Add interactive map to allow the user to select specific states , coal production ranges, or number of mines, which would automatically 
-   update the visualization to reflect their choices.
+- A map of India showing the production by states 
 
   <img src="TSWD3.jpg" width="700"/>
   <img src="TSWD344.png" width="700"/>
@@ -138,10 +137,17 @@ Recommendations:
       - The bars give a visual length that corresponds precisely to the volume of coal output, allowing viewers to readily identify the top             producers in each category.
       - My goal was to produce a visualisation that provides the key information at a glance while preserving simplicity and effectiveness in 
         design.
-  - Color Scheme
+- Color Scheme
        - I used a colour palette that reflects the subject matter, coal production.
        - The choice of grey and harsh black throughout is an intentional reference to the colour coal itself.
-       - This theme decision visually anchors the data inside its real-world environment. 
+       - This theme decision visually anchors the data inside its real-world environment.
+   
+- Analytics
+       - I used average lines in the bar charts to establish a standard for comparison.
+       - These lines serve as a reference point, showing the average coal output among districts and enterprises.
+       - This allows viewers to quickly determine which organisations surpass, meet, or fall below average production levels, giving another 
+         layer of insight to the data displayed. 
+      
 
 
 <div class='tableauPlaceholder' id='viz1707275799038' style='position: relative'><noscript><a href='#'><img alt='Indian Coal Production ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17072757874170&#47;IndianCoalProduction&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34_17072757874170&#47;IndianCoalProduction' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17072757874170&#47;IndianCoalProduction&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
