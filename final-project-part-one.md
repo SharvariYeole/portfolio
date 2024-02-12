@@ -19,7 +19,7 @@ Resolution: By adopting measures such as improving supply chain efficiencies, en
 
 ### Story Arc
 
-<img src="storyarc.png" width="700"/>
+<img src="storyarc.jpg" width="700"/>
 
 
 ### Setup: Introducing the Global Food Waste Challenge
@@ -43,7 +43,7 @@ Resolution: By adopting measures such as improving supply chain efficiencies, en
 
 ## Initial sketches
 
-<img src="insketch.png" width="700"/>
+<img src="insketch.jpg" width="700"/>
 
 
 # The data
