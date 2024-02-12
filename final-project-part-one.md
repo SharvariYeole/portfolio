@@ -61,7 +61,7 @@ Text here...
 
 # Method and medium
 I plan to use the following tools for my final Project:
-- 1. Tableau for vizualizations
-- 2. Figma for wireframing
-- 3. Shorthand for final story narrative
-- 4. Canva to create any other custom visual
+1. Tableau for vizualizations
+2. Figma for wireframing
+3. Shorthand for final story narrative
+4. Canva to create any other custom visual
