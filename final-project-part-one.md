@@ -19,12 +19,32 @@ Resolution: By adopting measures such as improving supply chain efficiencies, en
 
 ### Story Arc
 
+<img src="storyarc.png" width="700"/>
+
+
+### Setup: Introducing the Global Food Waste Challenge
+
+- **Context and Magnitude of the Problem**: Begin by presenting the global scale of food waste, highlighting how a significant portion of food produced worldwide is never consumed. Introduce key statistics to illustrate the extent of food waste from production to consumption across various regions.
+- **Underlying Causes**: Discuss the multi-faceted reasons behind food waste, including agricultural practices, supply chain inefficiencies, retail and restaurant waste, and consumer behavior. This part sets the stage by providing a broad understanding of how and why food waste occurs at different stages of the food system.
+- **Environmental, Economic, and Social Impacts**: Briefly outline the consequences of food waste, including its contribution to greenhouse gas emissions, wasted resources (like water and land), economic losses for producers and consumers, and missed opportunities to address food insecurity.
+
+### Conflict: The Challenges in Addressing Food Waste
+
+- **Complexity of the Food Supply Chain**: Delve into the complexities of reducing food waste within the global food supply chain, from harvest and post-harvest losses in agricultural settings to issues in distribution, retail, and consumption.
+- **Behavioral and Policy Barriers**: Explore the challenges related to changing consumer behavior, such as the tendency to overbuy and misunderstandings about food expiration dates, as well as the need for more supportive policies and infrastructure to facilitate food waste reduction.
+- **Technological and Logistical Limitations**: Highlight the limitations in current technologies for food preservation, distribution, and recycling, as well as the logistical challenges in connecting surplus food with those in need.
+
+### Resolution: Strategies and Solutions for Reducing Food Waste
+
+- **Innovations and Best Practices**: Present innovative technologies, practices, and policies that have been successful in reducing food waste at different points in the food supply chain, such as precision farming, improved food storage solutions, food sharing platforms, and policies that encourage donation over disposal.
+- **Community and Individual Actions**: Emphasize the role of communities and individuals in reducing food waste, including adopting more mindful consumption habits, participating in composting programs, and supporting initiatives that redistribute food to those in need.
+- **Call to Action for Collective Effort**: Conclude with a strong call to action, urging stakeholders at all levels—from policymakers and industry leaders to consumers and communities—to collaborate in reducing food waste. Highlight the importance of education, policy change, and innovation in creating a more sustainable food system.
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img src="insketch.png" width="700"/>
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -40,6 +60,8 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to use the following tools for my final Project:
+- 1. Tableau for vizualizations
+- 2. Figma for wireframing
+- 3. Shorthand for final story narrative
+- 4. Canva to create any other custom visual
