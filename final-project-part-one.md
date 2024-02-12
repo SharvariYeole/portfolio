@@ -1,16 +1,25 @@
 | [Home Page](https://sharvariyeole.github.io/portfolio) | [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+# Topic: How to Turn the Tables on Food Waste: A Global Feast for Thought 
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+### High Level Summary
+The global food system can feed billions of people but also causes a lot of food waste. This waste harms the environment, costs a lot of money, and makes food scarcity worse. By understanding and dealing with the reasons behind food waste, we can develop better ways to consume food, reduce harm to the environment, and use resources more wisely.
  
-Text here...
+### Reader's Objective
+As a reader, I want to understand the scale of food wastage, its impacts, and practical ways to contribute to its reduction, aiming for a sustainable future. By learning about effective strategies for minimizing food waste at the individual, community, and policy levels, I can make informed decisions that contribute to a more efficient and ethical food system.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+### Project Structure
+Setup: The modern food system is a marvel of logistics and production, capable of generating abundant food supplies that reach markets across the globe, ensuring variety and availability like never before.
 
-Text here...
+Conflict: Despite these advancements, a significant portion of this food never reaches consumers, leading to environmental, economic, and social issues. Food wastage occurs at multiple points in the supply chain, from agricultural production to household consumption, each contributing to the problem in unique ways.
+
+Resolution: By adopting measures such as improving supply chain efficiencies, enforcing better food handling practices, educating consumers, and implementing innovative solutions to redistribute excess food, significant strides can be made in reducing food wastage. Personal actions like planning purchases, understanding food labels, and creative re-use of leftovers are also crucial steps toward this goal.
+
+### Story Arc
+
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
