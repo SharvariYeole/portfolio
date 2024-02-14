@@ -47,11 +47,7 @@ Resolution: By adopting measures such as improving supply chain efficiencies, en
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name           | URL                                              | Description |
 | -------------- | ------------------------------------------------ | ----------- |
@@ -59,6 +55,7 @@ Text here...
 | FAO            | [https://www.fao.org/platform-food-loss-waste/flw-data/user-guide/en](https://www.fao.org/platform-food-loss-waste/flw-data/user-guide/en) | The database contains data and information from openly accessible databases, reports and studies measuring food loss and waste across food products, stages of the value chain, and geographical areas. |
 | OCED           | [https://shorturl.at/ehkCQ](https://shorturl.at/ehkCQ) | The OECD food waste dataset is a compilation to food loss and food waste for 32 countries. The period covered may vary across different countries depending on data availability(globally ranging from 1993 to 2013). |
 | Global SDG Database | [https://unstats.un.org/sdgs/dataportal](https://unstats.un.org/sdgs/dataportal) | The database contains data on the global Sustainable Development Goal indicators used in the Sustainable Development Goals Report 2018, and includes country-level data as well as regional and global aggregates |
+
 
 
 # Method and medium
