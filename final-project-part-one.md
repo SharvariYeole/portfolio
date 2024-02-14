@@ -64,3 +64,14 @@ I plan to use the following tools for my final Project:
 2. Figma for Wireframing
 3. Shorthand for final story narrative
 4. Canva to create any other custom visual
+
+
+# In Class Peer Feedback
+- Is the Data confined to the US or is it Global?
+- Add more infographics that are easier to understand like how many families can be fed by the amount of food wasted 
+- The environmental impact section doesn't feel as connected to the story 
+
+### Plans going forward:
+Add more infographics, and research the environmental impact section to better connect with the story 
+
+
