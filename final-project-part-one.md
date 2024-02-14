@@ -58,9 +58,7 @@ Text here...
 |ReFED                |(https://refed.org/)      |                                                                                       |
 |FAO                  |                          |                                                                                       |
 |OCED                 |https://shorturl.at/ehkCQ |The OECD food waste dataset is a compilation to food loss and food waste for 32 
-countries.The period covered may vary across|       
-|                                                 different countries depending on data availability                                     
-|                                                 countries depending on data availability (globally ranging from 1993 to 2013).         |
+countries.The period covered may vary across different countries depending on data availability                                             (globally ranging from 1993 to 2013).|
 |Global SDG database  |                          |
 
 # Method and medium
