@@ -53,15 +53,19 @@ Text here...
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Name                | URL                      | Description                                                                           |
+|---------------------|--------------------------|---------------------------------------------------------------------------------------|
+|ReFED                |(https://refed.org/)      |                                                                                       |
+|FAO                  |                          |                                                                                       |
+|OCED                 |https://shorturl.at/ehkCQ |The OECD food waste dataset is a compilation of available data related                 |
+|                     |                          |to food loss and food waste for 32 countries. The period covered may vary across       |
+|                     |                          |different countries depending on data availability                                     |
+|                                                |countries depending on data availability (globally ranging from 1993 to 2013).         |
+|Global SDG database  |                          |
 
 # Method and medium
 I plan to use the following tools for my final Project:
-1. Tableau for vizualizations
-2. Figma for wireframing
+1. Tableau for Vizualizations
+2. Figma for Wireframing
 3. Shorthand for final story narrative
 4. Canva to create any other custom visual
