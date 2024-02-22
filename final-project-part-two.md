@@ -5,12 +5,16 @@
 
 Text here!
 
+
+
 # User research 
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 Text here!
+
+The food waste story is intended for the general public, with the goal of inspiring a cultural shift towards more sustainable food consumption and waste practices. It also involves policymakers, industry experts, and environmentalists, providing them with knowledge to promote systemic improvements. Educators are urged to pass this information on to students, resulting in a new generation of environmentally concerned citizens. In essence, this story is a call to action for everyone, emphasizing the importance of personal decisions in creating a future where food is valued and conserved.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
