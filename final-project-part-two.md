@@ -65,10 +65,10 @@ Text here!
 
 # Moodboards / Personas
 
-<img src="Ben.png" width="400"/>
+<img src="Ben.png" width="400"/>  <img src="Jules.png" width="400"/>
 
 
-<img src="Jules.png" width="400"/>
+
 
 
 <img src="moodboard.jpg" width="700"/>
