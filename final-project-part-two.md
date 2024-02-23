@@ -5,7 +5,7 @@
 
 
 <img src="w4.png" width="600"/>
-<img src="w3.png" width="400"/>    <img src="w5.png" width="400"/>
+<img src="w3.png" width="400"/>  <img src="w5.png" width="400"/>
 <img src="w2.png" width="600"/>
 <img src="w1.png" width="600"/>
 
