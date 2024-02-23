@@ -4,7 +4,11 @@
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 Text here!
-
+<img src="w4.png"/>
+<img src="w3.png"/>
+<img src="w5.png"/>
+<img src="w2.png"/>
+<img src="w1.png"/>
 
 
 # User research 
@@ -59,8 +63,13 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+# Moodboards / Personas
 
-Text here!
+<img src="Ben.png"/>
+
+
+<img src="Jules.png"/>
+
+
+<img src="moodboard.jpg"/>
 
