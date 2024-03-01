@@ -4,7 +4,6 @@
 [Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/how-to-turn-the-tables-on-food-waste/index.html)
 
 # Summary
-### Introduction to the Project on Food Waste
 
 #### Part I: Laying the Groundwork
 
