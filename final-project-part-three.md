@@ -59,26 +59,20 @@ This was strategic in the way that it highlighted essential messages within the 
 The visuals were streamlined to communicate the key results directly and clearly. A special thanks to the student who helped simplify some of the more complex slides and even removed a redundant pie chart legend, making the remaining information more manageable and interesting.
 
 Conclusion
-All these revisions taken together have really improved effective communication of the project. It underscores the power of feedback and the readiness to be adaptable—both crucial elements in turning great ideas into great execution. This process of refinement has yielded an improvement not just in quality, both visual and narrative, but also made this project an even more potent tool in regards to engagement and information dissemination.
+All these revisions taken together have really improved effective communication of the project. This process of refinement has yielded an improvement not just in quality, both visual and narrative, but also made this project an even more potent tool in regards to engagement and information dissemination.
 
 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+The target audience for the food waste narrative is in general, a broad perspective that targets a shift toward eating habits and waste-reducing habits. It is designed for a general audience, which could include policymakers, industry professionals, and environmental activists; the latter, with insights on how best they can arm themselves to fight for systemic change. It, therefore, requires that educators will ensure that the knowledge reaches all their students to inculcate increased awareness of environmental issues in the coming generation. Most importantly, this is the story that goes without saying—a collective rallying cry, where individual choices are key to a world down the line that treasures and conserves food.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
-
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+One of the challenges that seemed to be faced was time, which curtailed the maximum investigation into some of the study areas, such as delving more into the possible solutions for food waste at the consumer level. If given more time, exploring with more depth the innovative composting techniques and waste reduction strategies used worldwide could have added more richness to the story.
 
-Text here!
+What was most exhilarating was the challenge of translating complex data into compelling and easy visual narratives. The process of selecting which data to highlight and how to present it visually was both challenging and rewarding. The recurring positive feedback on the use of visuals to simplify complex information kept affirming how effective visual storytelling can be in raising awareness to drive change.
+
+Reflection upon the project, it is every decision, right from the color scheme to the selection of visuals, which has been really important in order to let the subject matter be reached out and make its effect. 
+
